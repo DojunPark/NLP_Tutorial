@@ -1,6 +1,6 @@
 # NLP_basic
-These are codes provided by Won Joon Yoo <br/>
-link: https://wikidocs.net/book/2155
+These are codes provided by Won Joon Yoo. <br/>
+https://wikidocs.net/book/2155
 
 ## Chapter_01_Introduction_to_natural_language_processing
 
